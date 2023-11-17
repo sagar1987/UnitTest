@@ -1,0 +1,425 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\UnplannedReturn.Tests\\AptosOpenPo.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Domain\\Lakeshore.AptosOpenPo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Domain\\Lakeshore.AptosOpenPo.Domain.csproj",
+        "projectName": "Lakeshore.AptosOpenPo.Domain",
+        "projectPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Domain\\Lakeshore.AptosOpenPo.Domain.csproj",
+        "packagesPath": "C:\\Users\\SAI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Dto\\Lakeshore.AptosOpenPo.Dto.csproj": {
+                "projectPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Dto\\Lakeshore.AptosOpenPo.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Dto\\Lakeshore.AptosOpenPo.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Dto\\Lakeshore.AptosOpenPo.Dto.csproj",
+        "projectName": "Lakeshore.AptosOpenPo.Dto",
+        "projectPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Dto\\Lakeshore.AptosOpenPo.Dto.csproj",
+        "packagesPath": "C:\\Users\\SAI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAI\\Source\\Repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Infrastructure\\Lakeshore.AptosOpenPo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Infrastructure\\Lakeshore.AptosOpenPo.Infrastructure.csproj",
+        "projectName": "Lakeshore.AptosOpenPo.Infrastructure",
+        "projectPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Infrastructure\\Lakeshore.AptosOpenPo.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\SAI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Domain\\Lakeshore.AptosOpenPo.Domain.csproj": {
+                "projectPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Domain\\Lakeshore.AptosOpenPo.Domain.csproj"
+              },
+              "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakesore.AptosOpenPo.Application\\Lakeshore.AptosOpenPo.Application.csproj": {
+                "projectPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakesore.AptosOpenPo.Application\\Lakeshore.AptosOpenPo.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Lakeshore.KafkaClient": {
+              "target": "Package",
+              "version": "[1.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakesore.AptosOpenPo.Application\\Lakeshore.AptosOpenPo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakesore.AptosOpenPo.Application\\Lakeshore.AptosOpenPo.Application.csproj",
+        "projectName": "Lakeshore.AptosOpenPo.Application",
+        "projectPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakesore.AptosOpenPo.Application\\Lakeshore.AptosOpenPo.Application.csproj",
+        "packagesPath": "C:\\Users\\SAI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakesore.AptosOpenPo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Domain\\Lakeshore.AptosOpenPo.Domain.csproj": {
+                "projectPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Domain\\Lakeshore.AptosOpenPo.Domain.csproj"
+              },
+              "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Dto\\Lakeshore.AptosOpenPo.Dto.csproj": {
+                "projectPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Dto\\Lakeshore.AptosOpenPo.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.101.37, )"
+            },
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "Lakeshore.KafkaClient": {
+              "target": "Package",
+              "version": "[1.0.12, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection.Libraries": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Newtonsoft.Json.Schema": {
+              "target": "Package",
+              "version": "[3.0.14, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\UnplannedReturn.Tests\\AptosOpenPo.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\UnplannedReturn.Tests\\AptosOpenPo.Tests.csproj",
+        "projectName": "AptosOpenPo.Tests",
+        "projectPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\UnplannedReturn.Tests\\AptosOpenPo.Tests.csproj",
+        "packagesPath": "C:\\Users\\SAI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\UnplannedReturn.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Domain\\Lakeshore.AptosOpenPo.Domain.csproj": {
+                "projectPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Domain\\Lakeshore.AptosOpenPo.Domain.csproj"
+              },
+              "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Infrastructure\\Lakeshore.AptosOpenPo.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakeshore.AptosOpenPo.Infrastructure\\Lakeshore.AptosOpenPo.Infrastructure.csproj"
+              },
+              "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakesore.AptosOpenPo.Application\\Lakeshore.AptosOpenPo.Application.csproj": {
+                "projectPath": "C:\\Users\\SAI\\source\\repos\\itint-msv-wms-data-interface-aptos-open-po-ib\\Lakesore.AptosOpenPo.Application\\Lakeshore.AptosOpenPo.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

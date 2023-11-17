@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="SpecialOrderPickupStatus\**" />
+    <EmbeddedResource Remove="SpecialOrderPickupStatus\**" />
+    <None Remove="SpecialOrderPickupStatus\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lakeshore.SpecialOrderPickupStatus.Dto\Lakeshore.SpecialOrderPickupStatus.Dto.csproj" />
+  </ItemGroup>
+
+</Project>

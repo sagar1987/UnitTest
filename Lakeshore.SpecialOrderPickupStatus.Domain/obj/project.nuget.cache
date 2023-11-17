@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ybf2UX29wMXZSIP6ZFIDpqzxip2pjAeO7jiEbDQkkzlK1cejuoW+xm5Zh6Qu0zRuHiVPUBjDE+rrbCG3Dc+BIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAI\\source\\repos\\special-order-pickup-status\\Lakeshore.SpecialOrderPickupStatus.Domain\\Lakeshore.SpecialOrderPickupStatus.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAI\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\SAI\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\SAI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SAI\\Source\\Repos\\special-order-pickup-status\\Lakeshore.SendSalesOrder.Domain\\Lakeshore.SendSalesOrder.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SAI\\Source\\Repos\\special-order-pickup-status\\Lakeshore.SendSalesOrder.Domain\\Lakeshore.SendSalesOrder.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SAI\\Source\\Repos\\special-order-pickup-status\\Lakeshore.SendSalesOrder.Domain\\Lakeshore.SendSalesOrder.Domain.csproj",
+        "projectName": "Lakeshore.SendSalesOrder.Domain",
+        "projectPath": "C:\\Users\\SAI\\Source\\Repos\\special-order-pickup-status\\Lakeshore.SendSalesOrder.Domain\\Lakeshore.SendSalesOrder.Domain.csproj",
+        "packagesPath": "C:\\Users\\SAI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAI\\Source\\Repos\\special-order-pickup-status\\Lakeshore.SendSalesOrder.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SAI\\Source\\Repos\\special-order-pickup-status\\Lakeshore.SendSalesOrder.Dto\\Lakeshore.SendSalesOrder.Dto.csproj": {
+                "projectPath": "C:\\Users\\SAI\\Source\\Repos\\special-order-pickup-status\\Lakeshore.SendSalesOrder.Dto\\Lakeshore.SendSalesOrder.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SAI\\Source\\Repos\\special-order-pickup-status\\Lakeshore.SendSalesOrder.Dto\\Lakeshore.SendSalesOrder.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SAI\\Source\\Repos\\special-order-pickup-status\\Lakeshore.SendSalesOrder.Dto\\Lakeshore.SendSalesOrder.Dto.csproj",
+        "projectName": "Lakeshore.SendSalesOrder.Dto",
+        "projectPath": "C:\\Users\\SAI\\Source\\Repos\\special-order-pickup-status\\Lakeshore.SendSalesOrder.Dto\\Lakeshore.SendSalesOrder.Dto.csproj",
+        "packagesPath": "C:\\Users\\SAI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAI\\Source\\Repos\\special-order-pickup-status\\Lakeshore.SendSalesOrder.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

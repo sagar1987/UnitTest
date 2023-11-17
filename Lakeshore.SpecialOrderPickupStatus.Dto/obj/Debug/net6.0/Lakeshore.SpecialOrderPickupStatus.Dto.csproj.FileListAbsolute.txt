@@ -1,0 +1,12 @@
+C:\Users\SAI\source\repos\special-order-pickup-status\Lakeshore.SpecialOrderPickupStatus.Dto\bin\Debug\net6.0\Lakeshore.SpecialOrderPickupStatus.Dto.deps.json
+C:\Users\SAI\source\repos\special-order-pickup-status\Lakeshore.SpecialOrderPickupStatus.Dto\bin\Debug\net6.0\Lakeshore.SpecialOrderPickupStatus.Dto.dll
+C:\Users\SAI\source\repos\special-order-pickup-status\Lakeshore.SpecialOrderPickupStatus.Dto\bin\Debug\net6.0\Lakeshore.SpecialOrderPickupStatus.Dto.pdb
+C:\Users\SAI\source\repos\special-order-pickup-status\Lakeshore.SpecialOrderPickupStatus.Dto\obj\Debug\net6.0\Lakeshore.SpecialOrderPickupStatus.Dto.csproj.AssemblyReference.cache
+C:\Users\SAI\source\repos\special-order-pickup-status\Lakeshore.SpecialOrderPickupStatus.Dto\obj\Debug\net6.0\Lakeshore.SpecialOrderPickupStatus.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAI\source\repos\special-order-pickup-status\Lakeshore.SpecialOrderPickupStatus.Dto\obj\Debug\net6.0\Lakeshore.SpecialOrderPickupStatus.Dto.AssemblyInfoInputs.cache
+C:\Users\SAI\source\repos\special-order-pickup-status\Lakeshore.SpecialOrderPickupStatus.Dto\obj\Debug\net6.0\Lakeshore.SpecialOrderPickupStatus.Dto.AssemblyInfo.cs
+C:\Users\SAI\source\repos\special-order-pickup-status\Lakeshore.SpecialOrderPickupStatus.Dto\obj\Debug\net6.0\Lakeshore.SpecialOrderPickupStatus.Dto.csproj.CoreCompileInputs.cache
+C:\Users\SAI\source\repos\special-order-pickup-status\Lakeshore.SpecialOrderPickupStatus.Dto\obj\Debug\net6.0\Lakeshore.SpecialOrderPickupStatus.Dto.dll
+C:\Users\SAI\source\repos\special-order-pickup-status\Lakeshore.SpecialOrderPickupStatus.Dto\obj\Debug\net6.0\refint\Lakeshore.SpecialOrderPickupStatus.Dto.dll
+C:\Users\SAI\source\repos\special-order-pickup-status\Lakeshore.SpecialOrderPickupStatus.Dto\obj\Debug\net6.0\Lakeshore.SpecialOrderPickupStatus.Dto.pdb
+C:\Users\SAI\source\repos\special-order-pickup-status\Lakeshore.SpecialOrderPickupStatus.Dto\obj\Debug\net6.0\ref\Lakeshore.SpecialOrderPickupStatus.Dto.dll
